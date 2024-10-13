@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
         backgroundColor: Theme.of(context).colorScheme.primary,
         elevation: 0,
         title: const Text(
-          "Flutter Cart Provider",
+          "isofamily",
           style: TextStyle(color: Colors.white, fontSize: 20),
         ),
         centerTitle: true,
